@@ -1,2 +1,5 @@
-# youtube-mp3-downloader
- Youtube Mp3 Downloader
+--> Extract the code to your server it can be local or any hosting server
+--> Download Youtube dlc
+--> Download ffmped here is the link https://ffmpeg.org/download.html 
+--> Run the index file. 
+--> All done. 
